@@ -1,5 +1,5 @@
 # 🌍 Hello, <coders/>! 👋 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🧑‍💻 I'm currently working on **PHP**, **Python**, **Web Development**
 - 🌱 I'm currently learning **DevOps**, **Artificial Intelligence**
