@@ -5,9 +5,7 @@
 - 🤝 I'm looking to collaborate on **Web Projects**
 - 💬 Ask me about **anything** [here](daffawy@gmail.com)
 - 👨‍🎓 Pronouns: He/Him
-- ⚡ Fun fact: I love Programming and Design
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+- ⚡ Fun fact: I love Programming and Design              <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <!--
 **Daffa1407/Daffa1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
