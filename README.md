@@ -9,6 +9,10 @@
 - ⚡ Fun fact: I love Programming and Design
 
 
+
+## 🏆 GitHub Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
 <!--
 **Daffa1407/Daffa1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
