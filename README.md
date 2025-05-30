@@ -1,4 +1,4 @@
-# 🌍 Hello, <coders/>! 👋
+# 🌍 Hello, <coders/>! 👋 ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 - 🧑‍💻 I'm currently working on **PHP**, **Python**, **Web Development**
 - 🌱 I'm currently learning **DevOps**, **Artificial Intelligence**
