@@ -7,12 +7,32 @@
 - 💬 Ask me about **anything** [here](daffawy@gmail.com)
 - 👨‍🎓 Pronouns: He/Him
 - ⚡ Fun fact: I love Programming and Design
+<br>
+<br>
+<br>
+<br>
 
 
+---
+## 🛠️ Languages and Tools
 
-## 🏆 GitHub Trophy
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
+</p>
+<br>
+<br>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Keep+learning%2C+keep+building!" alt="Typing SVG" />
+</p>
 <!--
 **Daffa1407/Daffa1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
