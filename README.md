@@ -7,6 +7,15 @@
 - 👨‍🎓 Pronouns: He/Him
 - ⚡ Fun fact: I love Programming and Design
 
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+</p>
+
+
 ---
 
 ![Coder](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
