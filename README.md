@@ -1,8 +1,8 @@
-<h1 > 🌍 Hi, World! <img alt="Coding" width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/></h1>
+<h1 align="center"> 🌍 I'm Daffa <img alt="Coding" width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/></h1>
 <img align="right"  alt="Coding" width="280" src="programmer-unscreen.gif" />
 
-- 🧑‍💻 I'm currently working on **PHP**, **Python**, **Web Development**
-- 🌱 I'm currently learning **DevOps**, **Artificial Intelligence**
+- 👨‍💻 I'm currently working on **PHP**, **Python**, **Web Development**
+- 📚 I'm currently learning **DevOps**, **Artificial Intelligence**
 - 🤝 I'm looking to collaborate on **Web Projects**
 - 💬 Ask me about **anything** [here](daffawy@gmail.com)
 - 👨‍🎓 Pronouns: He/Him
