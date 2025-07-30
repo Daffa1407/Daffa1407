@@ -2,7 +2,7 @@
 <img align="right"  alt="Coding" width="280" src="programmer.mp4" />
 
 - 👨‍💻 I'm currently working on **PHP**, **Web Development**
-- 📚 I'm currently learning **Python**, **Artificial Intelligence**
+- 📚 I'm currently learning **Python**, **Artificial Intelligence**, **Google Cloud**
 - 🤝 I'm looking to collaborate on **Web Projects**
 - 💬 Ask me about **anything** [here](daffawy@gmail.com)
 - 👨‍🎓 Pronouns: He/Him
